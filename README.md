@@ -1,7 +1,7 @@
 <h1 align="center">⚡ AYUSH ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Deep+Learning+Engineer;Medical+AI+Researcher;3D+Segmentation+Specialist;TensorFlow+%7C+MONAI+%7C+CUDA;Building+Clinical+AI+Systems+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Image+Processing+Engineer;Medical+AI+Researcher;3D+Segmentation+Specialist;TensorFlow+%7C+MONAI+%7C+CUDA;Building+Clinical+AI+Systems+🚀">
 </p>
 
 ---
