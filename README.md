@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ayush</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer;Medical+AI+Researcher;3D+Segmentation+Specialist">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer;Image+Processing+Engineer;3D+Segmentation+Specialist">
 </p>
 
 ---
