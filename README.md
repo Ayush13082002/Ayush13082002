@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Deep Learning Engineer | Medical AI Enthusiast | Research-Driven Developer</h3>
 
