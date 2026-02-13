@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Deep Learning Engineer | Medical AI Enthusiast | Research-Driven Developer</h3>
+<h1 align="center">⚡ AYUSH ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFAA&size=25&center=true&vCenter=true&width=600&lines=Medical+AI+Developer;3D+Segmentation+Researcher;TensorFlow+%7C+MONAI+%7C+PyTorch;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Deep+Learning+Engineer;Medical+AI+Researcher;3D+Segmentation+Specialist;TensorFlow+%7C+MONAI+%7C+CUDA;Building+Clinical+AI+Systems+🚀">
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔬 Working on **Medical Image Segmentation**
-- 🏥 Focused on **Auto-Contouring for Radiotherapy**
-- 🤖 Building models using **TensorFlow & MONAI**
-- 📊 Interested in improving edge accuracy in 3D UNet architectures
-- 🚀 Always exploring AI research papers & implementation
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+</p>
 
 ---
+
+# 🧠 About Me
+
+```diff
++ Medical Image Segmentation Researcher
++ Focused on Radiotherapy Auto-Contouring
++ 3D Attention ResUNet Architect
++ CUDA + TensorFlow Optimization
++ Edge-Accuracy Deep Learning Explorer
+
 
 ## 🛠 Tech Stack
 
