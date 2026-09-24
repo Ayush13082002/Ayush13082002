@@ -8,7 +8,8 @@
 
 ## 🧠 About Me
 
-- 🏥 Image Processing Engineer at **Panacea Medical Technologies**
+- 🤖 Scientist at DRDO 
+- 🏥 Previously worked as a Image Processing Engineer at **Panacea Medical Technologies**
 - 🔬 Designing real-time medical imaging pipelines for radiotherapy systems
 - 🤖 Specialized in Medical Image Segmentation & Deep Learning
 - ⚡ Optimizing image enhancement, contour detection & segmentation algorithms
@@ -18,7 +19,10 @@
 
 ## 💼 Work Experience
 
-### 🏥 Panacea Medical Technologies (Aug 2025 – Present)
+
+### Scientist at DRDO (Apr 2026 - Present)
+
+### 🏥 Image Processing Engineer - Panacea Medical Technologies (Aug 2025 – Mar 2026)
 - Developing real-time medical image processing pipelines  
 - Implementing segmentation, filtering & contour detection algorithms  
 - Building Python-based modules for radiotherapy systems  
